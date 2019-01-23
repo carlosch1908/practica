@@ -11,6 +11,6 @@ package holamundo1;
  */
 public class HolaMundo2 {
    public static void main(String[] args) {
-        System.out.println("Holis mundo Maria");
+        System.out.println("Holis mundo2");
     }
 }
